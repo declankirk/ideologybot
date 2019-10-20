@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Stalinist",
+        "minX": -10,
+        "maxX": -7,
+        "minY": 8,
+        "maxY": 10
+    },
+    {
+        "name": "Strasserist",
+        "minX": -7,
+        "maxX": -1,
+        "minY": 8,
+        "maxY": 10
+    },
+    {
+        "name": "National Bolshevik",
+        "minX": -1,
+        "maxX": 1,
+        "minY": 8,
+        "maxY": 10
+    },
+    {
+        "name": "Nazi",
+        "minX": 1,
+        "maxX": 5,
+        "minY": 8,
+        "maxY": 10
+    },
+    {
+        "name": "Fascist",
+        "minX": 5,
+        "maxX": 8,
+        "minY": 8,
+        "maxY": 10
+    },
+    {
+        "name": "Capitalist-Fascist",
+        "minX": 8,
+        "maxX": 10,
+        "minY": 8,
+        "maxY": 10
+    },
+    {
+        "name": "Castroist",
+        "minX": -10,
+        "maxX": -7,
+        "minY": 7,
+        "maxY": 8
+    },
+    {
+        "name": "Leninist",
+        "minX": -10,
+        "maxX": -7,
+        "minY": 4,
+        "maxY": 7
+    },
+    {
+        "name": "Trotskyist",
+        "minX": -10,
+        "maxX": -7,
+        "minY": 0,
+        "maxY": 4
+    },
+    {
+        "name": "State Socialist",
+        "minX": -7,
+        "maxX": -4,
+        "minY": 2,
+        "maxY": 8
+    },
+    {
+        "name": "State Capitalist",
+        "minX": -4,
+        "maxX": 4,
+        "minY": 2,
+        "maxY": 8
+    },
+    {
+        "name": "Authoritarian-Capitalist",
+        "minX": 4,
+        "maxX": 10,
+        "minY": 6,
+        "maxY": 8
+    },
+    {
+        "name": "Neo-conservative",
+        "minX": 4,
+        "maxX": 10,
+        "minY": 4,
+        "maxY": 6
+    },
+    {
+        "name": "Conservative",
+        "minX": 4,
+        "maxX": 10,
+        "minY": 2,
+        "maxY": 4
+    },
+    {
+        "name": "Neoliberal",
+        "minX": 4,
+        "maxX": 10,
+        "minY": 0,
+        "maxY": 2
+    },
+    {
+        "name": "Social Conservative",
+        "minX": 1,
+        "maxX": 4,
+        "minY": 0,
+        "maxY": 2
+    },
+    {
+        "name": "Marxist",
+        "minX": -10,
+        "maxX": -7,
+        "minY": -5,
+        "maxY": 0
+    },
+    {
+        "name": "Democratic Socialist",
+        "minX": -7,
+        "maxX": -4,
+        "minY": -5,
+        "maxY": 2
+    },
+    {
+        "name": "Social Democrat",
+        "minX": -4,
+        "maxX": -1,
+        "minY": -5,
+        "maxY": 2
+    },
+    {
+        "name": "Social Liberal",
+        "minX": -1,
+        "maxX": 1,
+        "minY": -5,
+        "maxY": 2
+    }
+]

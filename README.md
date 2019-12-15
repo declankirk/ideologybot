@@ -1,2 +1,2 @@
 # ideologybot
-Bot that generates political compass/ideology for a source image.
+Bot that assigns memes with made-up ideologies.
